@@ -11,8 +11,8 @@ This is simple Jekyll site for reading book post.
 
 ## Run Instruction
 ```
-git clone https://github.com/meandevstar/jekyll-book-reading-ruby.git
-cd jekyll-book-reading-ruby
+git clone https://github.com/xdatavisualteam/ruby-jekyll.git
+cd ruby-jekyll
 gem install jekyll
 ```
 
