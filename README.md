@@ -1,5 +1,5 @@
-# jekyll-book-reading-ruby
-Simple Jekyll site for reading book post.
+# ruby-jekyll
+This is simple Jekyll site for reading book post.
 
 ### Index Page 
 <img width="800" src="img/index.png" border="0" />
